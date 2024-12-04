@@ -1,0 +1,5 @@
+Python 3.10.2
+PyMySql==1.1.1
+numpy==2.1.3
+pandas==2.2.3
+matplotlib-inline==0.1.7
