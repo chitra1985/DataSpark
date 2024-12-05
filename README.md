@@ -1,11 +1,3 @@
 # **DataSpark**
-Conducting Exploratory Data Analysis(EDA) to uncover the valuable insights from the Data.
+Conducting Exploratory Data Analysis(EDA) to uncover the valuable insights from the Customer, Produc, Sales, Stores Data.
 
-## Customer Analysis:
-
-## Product Analysis:
-
-## Sales Analysis:
-
-
-## Store Analysis:
